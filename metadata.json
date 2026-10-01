@@ -1,0 +1,6 @@
+{
+  "name": "Solana Meme Paper Trader",
+  "description": "Simulated paper trading platform for real Solana meme coins with live-like prices, portfolio tracker, watchlists, trade history, and responsive modern dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
